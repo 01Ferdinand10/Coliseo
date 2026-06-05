@@ -12,17 +12,28 @@ https://drive.google.com/file/d/1Ipi0Ip4t5qiWDEFv6-FTqOmPK_cWnzxS/view?usp=shari
     Thanks to Vindsvept, fantasy music -> https://youtu.be/7qTjny1qoXs?si=m12RNm7chGhZ1ctJ (Menus Music)
     Thanks to RPG Music Maker - Travis Savoie -> https://youtu.be/wQECYIAn2Pg?si=O64HkEf24ZD_AEUC (Background Music)
 
-# #Map:
-
-<img width="650" height="393" alt="image" src="https://github.com/user-attachments/assets/dc629259-342e-4466-858b-27864e939df1" />
-
-<img width="431" height="368" alt="image" src="https://github.com/user-attachments/assets/a40ff272-01a5-4b37-bff8-534e47cb336a" />
-
-<img width="595" height="451" alt="image" src="https://github.com/user-attachments/assets/20806e9c-23eb-4da5-b448-f9883f05a614" />
+## Player
+<img width="302" height="368" alt="image" src="https://github.com/user-attachments/assets/37e64dd8-3356-4f18-81c7-1b46fa03e9c2" />
 
 
-## Enemies:
 
-<img width="288" height="220" alt="image" src="https://github.com/user-attachments/assets/00b1079d-0b13-4795-a8e5-e868887b13b4" />
+## Map
+<img width="840" height="510" alt="image" src="https://github.com/user-attachments/assets/9dd08490-e3c0-48e0-b21c-70e7b817c5ff" />
 
-<img width="329" height="282" alt="image" src="https://github.com/user-attachments/assets/af3a4715-36ac-4281-867b-2eb04c345ece" />
+<img width="318" height="268" alt="image" src="https://github.com/user-attachments/assets/695668b0-9247-4ffa-a97f-084421c83c07" />
+
+<img width="743" height="589" alt="image" src="https://github.com/user-attachments/assets/1c2170a9-4938-442f-999f-adccdd21bd20" />
+
+
+
+## Shop
+<img width="762" height="370" alt="image" src="https://github.com/user-attachments/assets/7cc489d9-4eb1-4ddb-a545-bdfe2a847355" />
+
+<img width="773" height="368" alt="image" src="https://github.com/user-attachments/assets/ab8bb233-9e60-4bb5-abd5-4fed4f22e327" />
+
+
+
+## Enemies
+<img width="247" height="183" alt="image" src="https://github.com/user-attachments/assets/3476898a-ce6d-4059-adf7-1ef0ab6bd49f" />
+
+<img width="375" height="314" alt="image" src="https://github.com/user-attachments/assets/06b2fe98-ec57-4bf9-8c70-e57abbc95e0d" />
