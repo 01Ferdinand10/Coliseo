@@ -5,16 +5,16 @@ The game is my final project for "Programación de Agentes para Entornos Virtual
 https://drive.google.com/file/d/1Ipi0Ip4t5qiWDEFv6-FTqOmPK_cWnzxS/view?usp=sharing
 
 ## Creators:
-Luis Fernando Rivera Torres &
-Ioshua André Peña Zavala
+- Luis Fernando Rivera Torres
+- Ioshua André Peña Zavala
 
 ## Credits and Refences:
 - Sprites:
   Thanks to Pixel-Boy and AAA: https://pixel-boy.itch.io/ninja-adventure-asset-pack
 
 - Sound:
-    Thanks to Vindsvept, fantasy music -> https://youtu.be/7qTjny1qoXs?si=m12RNm7chGhZ1ctJ (Menus Music)
-    Thanks to RPG Music Maker - Travis Savoie -> https://youtu.be/wQECYIAn2Pg?si=O64HkEf24ZD_AEUC (Background Music)
+    - Thanks to Vindsvept, fantasy music -> https://youtu.be/7qTjny1qoXs?si=m12RNm7chGhZ1ctJ (Menus Music)
+    - Thanks to RPG Music Maker - Travis Savoie -> https://youtu.be/wQECYIAn2Pg?si=O64HkEf24ZD_AEUC (Background Music)
 
 ## Player
 <img width="302" height="368" alt="image" src="https://github.com/user-attachments/assets/37e64dd8-3356-4f18-81c7-1b46fa03e9c2" />
