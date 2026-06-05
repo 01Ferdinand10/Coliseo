@@ -8,5 +8,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DefeatScene.unity
+    guid: 426f5572b59b2334b8b82e9a2f89a301
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: a965ac4553847014cb52c3758cccef91
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: f1445f221add34745a3d378fa3612148
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
