@@ -5,7 +5,7 @@ The game is my final project for "Programación de Agentes para Entornos Virtual
 https://drive.google.com/file/d/1Ipi0Ip4t5qiWDEFv6-FTqOmPK_cWnzxS/view?usp=sharing
 
 ## Creators:
-Luis Fernando Rivera Torres
+Luis Fernando Rivera Torres &
 Ioshua André Peña Zavala
 
 ## Credits and Refences:
